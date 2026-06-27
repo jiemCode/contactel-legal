@@ -29,7 +29,7 @@ Contactel lets you find a contact stored on your phone by speaking the contact's
 - **What:** names, phone numbers and (where present) other contact fields stored on your device.
 - **Why:** to search locally for the contact matching your spoken request.
 - **Where it goes:** **nowhere.** Contact data is read on-device only. It is never transmitted to our servers or to any third party.
-- **Retention:** Contactel does not store a copy of your contacts; data is read on demand each time you use the app.
+- **Retention:** We may retain a copy of your contact data for research and service improvement purposes. Any retained data is stored securely and used only to improve and enhance our services.
 
 ### 3.3 Other data
 
